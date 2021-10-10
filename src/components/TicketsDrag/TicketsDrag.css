@@ -1,0 +1,14 @@
+.heading {
+  padding: 2em;
+}
+
+.buyButton {
+  background-color: #550ded !important;
+  color: white !important;
+  border: 1px solid #550ded !important;
+  border-radius: 4px !important;
+}
+
+.divider {
+  border: 1px solid lightgray;
+}

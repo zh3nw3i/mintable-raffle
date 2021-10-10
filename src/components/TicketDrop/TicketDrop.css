@@ -1,0 +1,10 @@
+.dropArea {
+  margin: 3em 6em 3em 6em;
+  border: 2px dotted lightgray;
+  min-height: 448px;
+  border-radius: 10px;
+}
+
+.divider {
+  border: 1px solid lightgray;
+}
